@@ -1,0 +1,15 @@
+{
+  "name": "@achannarasappa/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eslint-config.js",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ani Channarasappa",
+  "license": "MIT"
+}
